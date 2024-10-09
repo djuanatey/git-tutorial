@@ -1,5 +1,4 @@
-python
-java
-c++
-ada
-Cambio online
+python - strong
+java - strong
+c++ - weak
+ada - weak
